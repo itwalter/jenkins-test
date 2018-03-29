@@ -7,7 +7,7 @@ pipeline {
                 sh 'pwd'
                 sh 'echo $VERSION'
                 sh 'whoami'
-                echo $VERSION
+                sh 'ls'
             }
         }
     }
