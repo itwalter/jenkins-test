@@ -6,7 +6,7 @@
 
     <groupId>com.aoneai</groupId>
     <artifactId>polaris</artifactId>
-    <version>1.5.0</version>
+    <version>test-moruikang</version>
     <packaging>jar</packaging>
 
     <properties>
