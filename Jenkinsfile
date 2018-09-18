@@ -8,7 +8,7 @@ pipeline {
                 sh 'echo $VERSION'
                 sh 'whoami'
                 sh 'ls'
-                sh 'sh build.sh'
+                sh 'cat build.sh'
             }
         }
     }
