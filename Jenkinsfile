@@ -8,6 +8,7 @@ pipeline {
                 sh 'echo $VERSION'
                 sh 'whoami'
                 sh 'ls'
+                sh 'ansible --version'
                 sh 'cat build.sh'
             }
         }
